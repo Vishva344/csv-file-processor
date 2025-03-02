@@ -1,0 +1,4 @@
+serialNumber,productName,inputImageUrls
+SN123,Product A,"http://example.com/image1.jpg,http://example.com/image2.jpg"
+SN124,Product B,http://example.com/image3.jpg
+SN125,Product C,"http://example.com/image4.jpg,http://example.com/image5.jpg,http://example.com/image6.jpg"

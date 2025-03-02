@@ -1,0 +1,4 @@
+Serial Number,Product Name,Input Image Urls
+1,Product A,"https://example.com/image1.jpg,https://example.com/image2.jpg"
+2,Product B,"https://example.com/image3.jpg,https://example.com/image4.jpg"
+3,Product C,"https://example.com/image5.jpg,https://example.com/image6.jpg"
